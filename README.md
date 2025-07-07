@@ -126,11 +126,4 @@ Olá me chamo João Pedro sou desenvolvedor Full Stack focado em performance e u
     src="https://github-readme-stats.vercel.app/api?username=Jp-Roberto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jp-Roberto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
 
-</p>
